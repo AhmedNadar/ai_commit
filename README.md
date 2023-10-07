@@ -10,7 +10,7 @@
 ---
 
 ### Setup
-####What you need to start using AI Commits:
+#### What you need to start using AI Commits:
 
 **1. OpenAI gem:**
 * add gem [ruby-openai](https://github.com/alexrudall/ruby-openai) to your Gemfile and run `bundle install` to install the gem.
