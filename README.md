@@ -1,7 +1,7 @@
 
 <div align="center">
   <div>
-    <img src="//app/assets/images/AI_commit.png" alt="AI Commit" width="1270" height="auto">
+    <img src="/app/assets/images/AI_commit.png" alt="AI Commit" width="1270" height="auto">
     <h1 align="center">AI Commits</h1>
   </div>
 	<p><b>AI</b> add git changes and writes your git commit messages for you. Never write a commit message again.</p>
@@ -91,7 +91,7 @@ rake git:commit
 - [ ] Add some Rails minitest tests to make sure the rake task is working as expected.
 
 ### Contributing
-- This is an early version and idea of the repo, so there are probably some bugs and things that need to be improved. If you have any suggestions or ideas, please feel free to open an issue or submit a pull request.
+- This is an early version and idea of the repo, so there are probably [some bugs and things that need to be improved](https://github.com/AhmedNadar/ai_commit/issues). If you have any suggestions or ideas, please feel free to open an issue or submit a [pull request](https://github.com/AhmedNadar/ai_commit/pulls).
 
 - Bug reports and pull requests are welcome on GitHub at https://github.com/ahmednadar/ai_commit. This project is intended to be a safe, welcoming space for collaboration.
 
